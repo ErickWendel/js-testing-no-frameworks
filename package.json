@@ -1,0 +1,13 @@
+{
+  "name": "recorded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "ISC"
+}
